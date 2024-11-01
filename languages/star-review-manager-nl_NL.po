@@ -1,0 +1,705 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: star-review-manager\n"
+"POT-Creation-Date: 2015-03-11 18:42+0100\n"
+"PO-Revision-Date: 2015-03-11 18:42+0100\n"
+"Last-Translator: \n"
+"Language-Team: Bram Dekker\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-"
+"manager\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-"
+"manager\n"
+"X-Poedit-SearchPath-1: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-"
+"manager/admin\n"
+"X-Poedit-SearchPath-2: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-"
+"manager/views\n"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/admin_menu.php:6
+msgid "Manage review instances"
+msgstr "Beheer recensie instanties"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/admin_menu.php:7
+msgid "Star Manager Review Settings"
+msgstr "Star Review Manager Opties"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/admin_menu.php:8
+msgid "Create new review container"
+msgstr "Creeër nieuwe recensie instantie"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/admin_menu.php:9
+msgid "Review container settings"
+msgstr "Recensie instantie opties"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/admin_menu.php:10
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviewcontainers.php:12
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviewcontainers.php:26
+msgid "Manage reviews"
+msgstr "Beheer recensies"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/admin_menu.php:11
+msgid "Help"
+msgstr "Help"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/admin_menu.php:17
+msgid "You do not have sufficient permissions to access this page."
+msgstr "U heeft niet voldoende rechten om deze pagina te bekijken."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/admin_menu.php:46
+msgid " pending"
+msgstr " wachtend"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:3
+msgid ""
+"Thank you for taking the time to take a look at this help page. On this page "
+"I will try to give an explanation of the features of this plugin."
+msgstr ""
+"Bedank u dat u de tijd wilt nemen om deze hulp pagina te bekijken. Op deze "
+"pagina zal ik u proberen een uitleg te geven van de verschillende "
+"functionaliteiten van deze plugin."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:4
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviewcontainers.php:3
+msgid "Review instances"
+msgstr "Recensie instanties"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:5
+msgid "This page contains information about the following features"
+msgstr "Deze pagina bevat informatie over de volgende functionaliteiten"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:7
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:9
+msgid "Creating a review instance"
+msgstr "Het plaatsen van een recensie instantie"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:8
+msgid "Creating a review form"
+msgstr "Het plaatsen  van een recensie formulier"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:10
+msgid "Activating or deleting a review"
+msgstr "Het activeren of verwijderen van een recensie"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:11
+msgid "How to apply new styles to the review form and reviews (advanced)"
+msgstr ""
+"Het toepassen van nieuwe stijlen op het review formulier en de reviews "
+"(geavanceerd)"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:12
+msgid "How to create your own review form (advanced)"
+msgstr "Het maken van uw eigen recensie formulier (geavanceerd)"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:15
+msgid ""
+"One of the most important features of this plugin are the review instances."
+msgstr ""
+"Een van de meest belangrijke onderdelen van deze plugin zijn de recensie "
+"instanties. "
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:16
+msgid "A review instance is an instance in which the review items reside."
+msgstr ""
+"Een recensie instantie is een instantie waarin de reviews zich bevinden. "
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:17
+msgid ""
+"The instance makes it possible to create multiple review pages, using the "
+"shortcode, instances can be placed on different pages."
+msgstr ""
+"Deze instantie maakt het mogelijk om meerdere recensie pagina's te maken, "
+"door deze m.b.v. een shortcode op verschillende pagina's te plaatsen."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:18
+msgid "Use the shortcode"
+msgstr "Gebruik de shortcode"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:18
+msgid ""
+"to add a review instance to your page. The review instance will now "
+"automatically loads all active reviews."
+msgstr ""
+"om een review instantie aan uw pagina toe te voegen. De review instantie zal "
+"nu automatisch alle bijbehorende actieve recensies laden."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:19
+msgid ""
+"In this version we enabled support for the following shortcode parameters:"
+msgstr "In deze versie staan wij de volgende shortcodes toe:"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:20
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:44
+msgid "Shortcode params"
+msgstr "Shortcode parameters"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:23
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:47
+msgid "Param"
+msgstr "Parameter"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:24
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:48
+msgid "Values"
+msgstr "Waardes"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:25
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:49
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:80
+msgid "Mandatory"
+msgstr "Verplicht"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:29
+msgid ""
+"[id that corresponds to the created review instance (you can find this id in "
+"the managing menu)]"
+msgstr ""
+"[het id dat hoort bij de door u gecreërde recensie instantie (deze kunt u "
+"vinden in het beheer menu)]"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:30
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:54
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:86
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:87
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:92
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:93
+msgid "Yes"
+msgstr "Ja"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:35
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:99
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:100
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:105
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:106
+msgid "No"
+msgstr "Nee"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:39
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:57
+msgid "Example"
+msgstr "Voorbeeld"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:41
+msgid "Review form"
+msgstr "Recensie formulier"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:42
+msgid ""
+"We created a review form for your convenience. It is also possible to create "
+"your own form, to do this see the section: Create your own form (advanced)"
+msgstr "We hebben voor uw "
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:43
+msgid "To add the given form to your page, add the shortcode "
+msgstr ""
+"Om een gedefeniëerd formulier aan uw pagina toe te voegen, plaats de "
+"shortcode"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:43
+msgid ""
+" to your page together with the review instance id that the form needs to "
+"send its data to."
+msgstr ""
+"op uw pagina samen met het recensie instantie id waar uw formulier zijn data "
+"heen moet sturen."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:53
+msgid "[id of the related review instance on this page]"
+msgstr "[id van de gerelateerde review instantie op de pagina]"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:58
+msgid "Reviews"
+msgstr "Recensies"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:59
+msgid "As mentioned do reviews reside in a review instance."
+msgstr "Zoals beschreven bevinden de reviews zich in een review instantie. "
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:60
+msgid ""
+"Click on manage reviews in the manage review instances menu to see all "
+"approved and pending reviews."
+msgstr ""
+"Klik op beheer recensies in het beheer recensie instanties menu om alle "
+"actieve en nog goed te keuren recensies te zien."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:61
+msgid "Pending"
+msgstr "Goed te keuren"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:62
+msgid ""
+"After someone submitted a review on your website, the review is pending "
+"until you as an administrator agrees with the content."
+msgstr ""
+"Nadat iemand een recnesie op uw website heeft doorgevoerd, wacht de recensie "
+"op goedkeuring totdat u, als adminstrator, de inhoud goed keurt. "
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:63
+msgid ""
+"When you agree with the content of the review, you have the possibility to "
+"approve the review, to do this: click on the approve button related to the "
+"review."
+msgstr ""
+"Als u de inhoud goed vindt dan heeft u de mogelijkheid om de recensie goed "
+"te keuren. Dit kunt u doen door te klikken op de goed keuren knop behorende "
+"bij de recensie."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:64
+msgid "Approved"
+msgstr "Goedgekeurd"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:65
+msgid ""
+"All approved reviews are being shown on the place of the srm_reviewcontainer "
+"shortcode."
+msgstr ""
+"Alle goedgekerude recensies worden getoond op de plaatst van de "
+"srm_reviewcontainer shortcode"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:66
+msgid ""
+"If you would like to remove a review, click on the delete button next to the "
+"review. The review will now be removed."
+msgstr ""
+"Als u een recensie wilt verwijderen. Klik op de verwijder-knop naast de "
+"recensie. De recensie zal nu verwijderd zijn."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:69
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:70
+msgid "Style the given form and reviews"
+msgstr "Stijl het voor-gedefinieerde formulier en recensies"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:71
+msgid ""
+"It is possible to style the form and reviews that are provided by the "
+"plugin. To do this, go to the Star Review Manager Settings page (located in "
+"Settings) and add CSS code."
+msgstr ""
+"Het is mogelijk om het voor-gedefiniëerde formulier en  de recensies te "
+"stijlen. Om dit te doen, ga naar de Star Review Manager Opties pagina (te "
+"vinden onder Instellingen) en voeg CSS code toe."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:72
+msgid "Create your own form (Advanced)"
+msgstr "Maak uw eigen formuiler (Geavanceerd)"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:73
+msgid ""
+"It is also possible to create your own form. To do this create a form tag "
+"with an empty action and a post method."
+msgstr ""
+"Het is ook mogelijk om uw eigen formulier te maken. Om dit te doen, creeër "
+"een form-tag met een lege actie en een post methode."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:74
+msgid ""
+"Next to that, make sure that you include a few (hidden)-tags within the "
+"form. The following tags are available:"
+msgstr ""
+"Daarnaast, zorg ervoor dat u enkele (verborgen)-tag in het formulier "
+"toevoegd. De volgende tags zijn beschikbaar:"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:78
+msgid "Tag name attribute"
+msgstr "Tag name attribuut"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:79
+msgid "Description"
+msgstr "Omschrijving"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:81
+msgid "Hidden"
+msgstr "Verborgen"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:85
+msgid ""
+"Related instance id. Make sure that this id corresponds to the id of the "
+"review instance on this page."
+msgstr ""
+"Gerelateerd instantie id. Zorg ervoor dat dit id overeenkomst met het id van "
+"de recensie instantie op de pagina."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:98
+msgid ""
+"A user will be created with this as his firstname (make sure that you also "
+"add lastname)"
+msgstr ""
+"Een gebruiker wordt aangemaakt met deze voornaam (u moet hiervoor ook een "
+"achternaam invullen)"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:104
+msgid ""
+"A user will be created with this as his lastname (make sure that you also "
+"add firstname)"
+msgstr ""
+"Een gebruiker wordt aangemaakt met deze achter  (u moet hiervoor ook een "
+"voornaam invullen)"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:109
+msgid ""
+"Next to the fields, make sure that your submit button has the name property"
+msgstr ""
+"Zorg er, naast de input-velden, ook voor dat uw submit knop een name "
+"property heeft. "
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:109
+msgid ", because we want to create a review."
+msgstr ", omdat we een \"review\"  willen maken"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:110
+msgid ""
+"Example: see the code of the generated form when you add it through a "
+"shortcode :)"
+msgstr ""
+"Voorbeeld: zie de code van het gegenereerde formulier als u de shortcode "
+"voor het formulier op uw pagina plaatst :)."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:112
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/settings.php:18
+msgid "Any questions about or feedback on the plugin?"
+msgstr "Vragen of feedback over de plugin?"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/help.php:113
+msgid ""
+"Send me an e-mail (in Dutch, English or German otherwise you will get a "
+"google translated e-mail back)"
+msgstr ""
+"Stuurt u mij gerust een e-mail (in het Nederlands, Engels of Duits, anders "
+"krijgt u een door google vertaalde e-mail terug)."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviewcontainers.php:4
+msgid "Create review instance"
+msgstr "Maak nieuwe recensie instantie"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviewcontainers.php:8
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/new_reviewcontainer.php:60
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/new_reviewcontainer.php:61
+msgid "Title"
+msgstr "Titel"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviewcontainers.php:9
+msgid "Review limit"
+msgstr "Recensie limiet"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviewcontainers.php:10
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:13
+msgid "Pending reviews"
+msgstr "Goed te keuren recensies"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviewcontainers.php:11
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:80
+msgid "Active reviews"
+msgstr "Actieve recenesies"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviewcontainers.php:13
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviewcontainers.php:14
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviewcontainers.php:32
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:22
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:62
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:89
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:128
+msgid "Delete"
+msgstr "Verwijder"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviewcontainers.php:29
+msgid ""
+"Are you sure that you want to delete this container and all related reviews?"
+msgstr ""
+"Weet u zeker dat u deze instantie en alle bijbehorende recensies wilt "
+"verwijderen?"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:12
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/new_reviewcontainer.php:85
+msgid "Back to review instances overview"
+msgstr "Terug naar overzicht"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:17
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:84
+msgid "ID"
+msgstr "ID"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:18
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:85
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviewform.php:49
+msgid "Message"
+msgstr "Bericht"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:19
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:86
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviewform.php:55
+msgid "Rating"
+msgstr "Waarderingen"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:20
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:87
+msgid "Created"
+msgstr "Geplaats"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:21
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:88
+msgid "User"
+msgstr "Gebruiker"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:23
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:70
+msgid "Approve"
+msgstr "Goedkeuren"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:53
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/manage_reviews.php:119
+msgid "Anonymous"
+msgstr "Onbekend"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/new_reviewcontainer.php:55
+msgid "New Review instance"
+msgstr "Nieuwe recensie instantie"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/new_reviewcontainer.php:64
+msgid "Rating categories"
+msgstr "Waarderings categorieën"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/new_reviewcontainer.php:69
+msgid "Category name"
+msgstr "Categorie naam"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/new_reviewcontainer.php:70
+msgid "Add category"
+msgstr "Voeg categorie toe"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/new_reviewcontainer.php:73
+msgid "Email notification"
+msgstr "E-mail notificatie"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/new_reviewcontainer.php:74
+msgid "Send me notifications on review submit"
+msgstr "Stuur mij notificaties bij het plaatsen van een recensie"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/new_reviewcontainer.php:77
+msgid "Email addres"
+msgstr "E-mailadres"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/new_reviewcontainer.php:81
+msgid "Amount of reviews per page"
+msgstr "Aantal recensies per pagina"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/new_reviewcontainer.php:82
+msgid "0 is infinite"
+msgstr "0 is oneindig"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/new_reviewcontainer.php:84
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/settings.php:16
+msgid "Save"
+msgstr "Opslaan"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/settings.php:9
+msgid "Star Review Manager Settings"
+msgstr "Star Review Manager opties"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/settings.php:10
+msgid "Upload your CSS file"
+msgstr "Upload uw CSS bestand"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/settings.php:13
+msgid "Or enter your CSS code below"
+msgstr "Of vul uw CSS code hieronder in"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/admin/settings.php:19
+msgid ""
+"send me an e-mail (in Dutch, English or German otherwise you will get a "
+"google translated e-mail back)"
+msgstr ""
+"Stuurt u mij gerust een e-mail (in het Nederlands, Engels of Duits, anders "
+"krijgt u een door google vertaalde e-mail terug)."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/classes/class.messenger.php:15
+msgid "Review submitted"
+msgstr "Recensie toegevoegd"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/classes/class.messenger.php:16
+msgid "The following review has just submitted to your website: "
+msgstr "De volgende recensie is zojuist op uw website geplaatst: "
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/lib/donate.php:7
+msgid "Thank you in advance."
+msgstr "Bij voorbaat dank voor uw gift."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviewform.php:8
+msgid "generated review form"
+msgstr "genereerd recensie formulier"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviewform.php:36
+msgid ""
+"Thank you for sending in your review. \n"
+"\t\tWhen your review has been approved, it will be made visible"
+msgstr ""
+"Bedankt voor uw recensie. Als uw recensie is goedgekeurd wordt deze "
+"zichtbaar."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviewform.php:40
+msgid "Firstname"
+msgstr "Voornaam"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviewform.php:43
+msgid "Lastname"
+msgstr "Achternaam"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviewform.php:69
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviewform.php:71
+msgid "Add review"
+msgstr "Plaats recensie"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviews.php:49
+msgid "automatically generated review output"
+msgstr "automatisch gegeneerde recensie uitvoer."
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviews.php:72
+msgid "created by "
+msgstr "geplaatst door "
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviews.php:75
+msgid "created by Anonymous"
+msgstr "geplaatst door een onbekend persoon "
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviews.php:77
+msgid " at "
+msgstr " op "
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviews.php:84
+msgid "first"
+msgstr "eerste"
+
+#: C:/xampp/htdocs/plugin/wp-content/plugins/star-review-manager/views/view.reviews.php:88
+msgid "last"
+msgstr "laatste"
+
+#~ msgid "0 is inifite"
+#~ msgstr "0 is oneindig"
+
+#~ msgid "Create new review"
+#~ msgstr "Maak nieuwe recensie"
+
+#~ msgid "Enter the email address to notify"
+#~ msgstr "Vul het te notificeren e-mailadres in"
+
+#~ msgid "a plugin by Bram Dekker"
+#~ msgstr "een plugin geschreven door Bram Dekker"
+
+#~ msgid ""
+#~ "This plugin is created with love, please return the favor. Thank you in "
+#~ "advance!"
+#~ msgstr ""
+#~ "Deze plugin is met liefde gemaakt. Geeft u ook een beetje liefde terug? "
+#~ "Dank u wel!"
+
+#~ msgid "by Anonymous"
+#~ msgstr "een anonieme gebruiker"
+
+#~ msgid "at "
+#~ msgstr "op"
+
+#~ msgid "New Review"
+#~ msgstr "Nieuwe recensie"
+
+#~ msgid "This plugin created with love, please return the favor."
+#~ msgstr ""
+#~ "Deze plugin is met liefde gemaakt. Geef alstublieft een beetje liefde "
+#~ "terug. Dank u wel."
+
+#~ msgid "How to activate a review"
+#~ msgstr "Het activeren of  verwijderen van een recensie"
+
+#~ msgid "How to apply new styles to your review form and reviews"
+#~ msgstr ""
+#~ "Het toepassen van nieuwe stijlen op het review formulier en de reviews"
+
+#~ msgid "Style given form"
+#~ msgstr "Stijl het voor-gedefiniëerde formulier"
+
+#~ msgid ""
+#~ "It is possible to style the form that is provided by the plugin. To do "
+#~ "this, go to the Star Review Manager Settings page (located in Settings)"
+#~ msgstr ""
+#~ "Het is mogelijk om het voor-gedefiniëerde formulier te stijlen. Om dit te "
+#~ "doen, ga naar het Star Review Opties menu (te vinden onder Instellingen)"
+
+#~ msgid ""
+#~ "Example: see the code of the given form when you add it through a "
+#~ "shortcode :)"
+#~ msgstr ""
+#~ "Voorbeeld: zie de code van het gegenereerde formulier als u de shortcode "
+#~ "voor het formulier op uw pagina plaatst."
+
+#~ msgid "As mentioned do reviews reside in the review container."
+#~ msgstr "Zoals beschreven bevinden de reviews zich in een review instantie. "
+
+#~ msgid ""
+#~ "Related container id, make sure that the id corresponds to the id of the "
+#~ "review container on this page."
+#~ msgstr ""
+#~ "Gerelateerd instantie id. Zorg ervoor dat dit id overeenkomst met het id "
+#~ "van de recensie instantie op de pagina."
+
+#~ msgid ""
+#~ "It is also possible to create your own form. To do this create a form tag "
+#~ "without an action but method post."
+#~ msgstr ""
+#~ "Het is ook mogelijk om uw eigen formulier te maken. Om dit te doen, "
+#~ "creeër een form-tag met een lege actie en een post methode."
+
+#~ msgid ""
+#~ "We created a review form for your convenience. It is also possible to "
+#~ "create your own form, to do this see the section: Create your own form"
+#~ msgstr ""
+#~ "We hebben voor u een recensie formulier gedefiniëerd. Het is ook mogelijk "
+#~ "om uw eigen formulier te creeëren, wilt u dit doen? Kijk dan in de "
+#~ "paragraaf: Maak uw eigen recensie formulier."
+
+#~ msgid "Create given form (Advanced)"
+#~ msgstr "Maak een "
+
+#~ msgid ""
+#~ "It is possible to style the form that is provided by the plugin. To do "
+#~ "this, go to the Star Review Manager Settings page (located in Settings)</"
+#~ "span><br>\n"
+#~ "\t<span>Here you have the ability to add css by uploading a css file or "
+#~ "by adding your own custom css in the textarea."
+#~ msgstr ""
+#~ "Het is mogelijk om het voor-gedefiniëerde formulier te stijlen. Om dit te "
+#~ "doen, ga naar het Star Review Opties menu (te vinden onder Instellingen)"
+
+#~ msgid ""
+#~ " to your page together with the review container id that it relates to."
+#~ msgstr ""
+#~ "op uw pagina samen met het recensie instantie id waar uw formulier zijn "
+#~ "data heen moet sturen."
+
+#~ msgid "To create your own review form, add the shortcode "
+#~ msgstr "Om uw "
+
+#~ msgid "[id that corresponds to the created review instance]"
+#~ msgstr ""
+#~ "[het id dat hoort bij de door u gecreërde recensie instantie (deze kunt u "
+#~ "vinden in het beheer menu)]"
+
+#~ msgid "The instance makes it possible to create multiple review pages."
+#~ msgstr ""
+#~ "Deze instantie maakt het mogelijk om meerdere recensie pagina's te maken, "
+#~ "door deze m.b.v. een shortcode op verschillende pagina's te plaatsen."
+
+#~ msgid "Settings"
+#~ msgstr "Opties"
+
+#~ msgid "Create review container"
+#~ msgstr "Maak review instantie"

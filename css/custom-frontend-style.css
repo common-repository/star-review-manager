@@ -1,0 +1,97 @@
+/* NOTE: Change this file only if you know CSS */
+
+/* =================== 
+    Styles related to the review form 
+    ==================
+*/
+
+/* form layout */
+.srm-form {
+
+}
+
+/* form group */
+.srm-form .srm-form-group {
+
+}
+
+/* form input */
+.srm-form input {
+
+}
+
+.srm-form .star-rating {
+
+}
+
+/* =================== 
+    Styles related to the pagination of the reviews (if you did set a review instance limit) 
+    ==================
+*/
+.srm-pagination {
+
+}
+
+.srm-pagination .page-indicator {
+
+}
+
+.srm-pagination .page-indicator.disabled {
+
+} 
+
+.srm-pagination .page-indicator.disabled:hover {
+
+} 
+
+
+.srm-pagination .page-indicator:hover {
+ 
+}
+
+.srm-pagination .page-indicator.active {
+ 
+ }
+
+/* =================== 
+    Styles related to the review containers 
+    ==================
+*/
+
+/* review layout */
+.srm-review {
+
+}
+
+/* group layout */
+.srm-review .srm-grouping {
+
+}
+
+/* rating category and value grouping */
+.srm-review .srm-categoryrating-grouping {
+
+}
+
+/* rating value layout */
+.srm-review .srm-ratingcontainer {
+
+}
+
+/* rating-category layout */
+.srm-review .srm-category {
+
+}
+
+/* review stars rating */
+.srm-review .srm-stars-rating {
+
+}
+
+/* review bullets rating */
+.srm-review .srm-bullets-rating {
+
+}
+
+
+
